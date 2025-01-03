@@ -40,5 +40,8 @@ This project introduces a React-based web application that functions as a clone 
    ```bash
    git clone https://github.com/iamakashpc/Gemini-Clone.git
 
+
+2. link
+
    ```bash
-   https://glowing-gumption-d927f7.netlify.app/
+   https://glowing-gumption-d927f7.netlify.app/   
